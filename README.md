@@ -1,2 +1,3 @@
 # TCPChat
-C# TCP Protocol Messenger Unencrypted test for CS161 tcp protocol and TCP Flood
+Uploaded old project for appeal purpose
+C# TCP Protocol Messenger Unencrypted
