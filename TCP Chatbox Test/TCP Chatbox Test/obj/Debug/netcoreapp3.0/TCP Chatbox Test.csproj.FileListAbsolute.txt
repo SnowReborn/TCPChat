@@ -1,0 +1,11 @@
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\bin\Debug\netcoreapp3.0\TCP Chatbox Test.exe
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\bin\Debug\netcoreapp3.0\TCP Chatbox Test.deps.json
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\bin\Debug\netcoreapp3.0\TCP Chatbox Test.runtimeconfig.json
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\bin\Debug\netcoreapp3.0\TCP Chatbox Test.runtimeconfig.dev.json
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\bin\Debug\netcoreapp3.0\TCP Chatbox Test.dll
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\bin\Debug\netcoreapp3.0\TCP Chatbox Test.pdb
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\obj\Debug\netcoreapp3.0\TCP Chatbox Test.csprojAssemblyReference.cache
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\obj\Debug\netcoreapp3.0\TCP Chatbox Test.AssemblyInfoInputs.cache
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\obj\Debug\netcoreapp3.0\TCP Chatbox Test.AssemblyInfo.cs
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\obj\Debug\netcoreapp3.0\TCP Chatbox Test.dll
+D:\VS Projects\C#\TCP Chatbox Test\TCP Chatbox Test\obj\Debug\netcoreapp3.0\TCP Chatbox Test.pdb

@@ -1,0 +1,9 @@
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\bin\Debug\TCP Chatbox test 2.exe.config
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\bin\Debug\TCP Chatbox test 2.exe
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\bin\Debug\TCP Chatbox test 2.pdb
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\obj\Debug\TCP Chatbox test 2.csprojAssemblyReference.cache
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\obj\Debug\TCP_Chatbox_test_2.Form1.resources
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\obj\Debug\TCP_Chatbox_test_2.Properties.Resources.resources
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\obj\Debug\TCP Chatbox test 2.csproj.GenerateResource.cache
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\obj\Debug\TCP Chatbox test 2.exe
+D:\VS Projects\C#\TCP Chatbox test 2\TCP Chatbox test 2\obj\Debug\TCP Chatbox test 2.pdb
